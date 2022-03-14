@@ -1,2 +1,4 @@
-# class102
-Class 102 Notes
+# Class 102 Notes
+
+*
+
