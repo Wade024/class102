@@ -1,4 +1,5 @@
-# Class 102 Notes
+## Class 102
 
-*
-
+* Learning about to use Github
+* Vocabulary
+* 
